@@ -1,0 +1,20 @@
+{
+	"name": "edu.cornell.xrctools.annotations",
+	"version": "0.0.1",
+	"displayName": "XRC Tools Annotations",
+	"description": "This repo contains a collection of annotation tools to be used by XR Collaboratory.",
+	"unity": "2021.3.4",
+	"unityRelease": "f1",
+	"dependencies": {
+	},
+	"keywords": [
+		"XRC",
+		"Tools",
+		"Annotations"
+	],
+	"author": {
+		"name": "XR Collaboratory",
+		"email": "sr2294@cornell.edu",
+		"url": "https://xr.cornell.edu/collaboratory"
+	}
+}
