@@ -4,7 +4,7 @@
 	"displayName": "XRC Tools Annotations",
 	"description": "This repo contains a collection of annotation tools to be used by XR Collaboratory.",
 	"unity": "2021.3",
-	"unityRelease": "f1",
+	"unityRelease": "4f1",
 	"dependencies": {
 	},
 	"keywords": [
